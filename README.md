@@ -1,4 +1,4 @@
-🍫 **Candy** será apenas mais um stealer no mercado, seu **diferencial** são as **inúmeras possibilidades** que ele criará junto com sua **comunidade##.
+🍫 **Candy** será apenas mais um stealer no mercado, seu **diferencial** são as **inúmeras possibilidades** que ele criará junto com sua **comunidade**.
 
 ## - ⏰ Vocês tem alguma previsão?
  - Infelizmente não, o **__Candy__** será **grátis**, então talvez isto traga vários problemas, mas ao longo do tempo vamos resolvê-los.
