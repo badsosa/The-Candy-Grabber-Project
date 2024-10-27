@@ -1,4 +1,5 @@
-**__Candy Stealer__** será apenas mais um no mercado, o seu **diferencial** é a **segurança**, **suporte** e **exclusividade de funções.**
+**__Candy Stealer__** será apenas mais um no mercado, o seu **diferencial** é a **segurança**, **suporte** e a sua **comunidade**, que moldará o seu futuro.
+
 ## - Vocês tem alguma previsão?
  - Infelizmente não, o **__Candy__** será **grátis**, então talvez isto traga vários problemas, mas ao longo do tempo vamos resolvê-los.
 ## - O que é um stealer?
