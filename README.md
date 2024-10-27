@@ -15,6 +15,6 @@ Candy is just another **brazillian stealer** on the market, its difference is th
 *It's not just monetary, but also supporting with suggestions, interacting with the community, etc.*
 
 - **I wanna help, how do i contact yall?**
-  *It's simple! Just join our Discord server:
-        https://discord.gg/f9jahHZRkC
+  *It's simple! Just join our Discord server:*
+        (https://discord.gg/f9jahHZRkC)[MidWay]
   
