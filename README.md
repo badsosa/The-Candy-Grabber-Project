@@ -12,7 +12,7 @@
 - **Revendendo keys** do stealer ao atingirmos a meta dos 1.000 membros.
 
 # 🤍 Como posso apoiar a Candy?
-**De forma financeira**, você pode simplesmente obter o cargo de **apoiador** no seguinte site: (https://decrypt.mginex.com/products/0192c581-db8e-7f86-83fb-cb02189d60b1)[Clique aqui].
+**De forma financeira**, você pode simplesmente obter o cargo de **apoiador** no seguinte site: [Clique aqui](https://decrypt.mginex.com/products/0192c581-db8e-7f86-83fb-cb02189d60b1).
 - **Não** é só de forma financeira que você pode nos apoiar, você também pode apoiar o nosso projeto **interagindo** com a nossa **comunidade** e **sugerindo funções** para o stealer.
 
 ## 🚧 Quais são as formas de contato?
