@@ -1,4 +1,4 @@
-🍫 **__Candy Stealer__** será apenas mais um no mercado, o seu **diferencial** é/será a **segurança**, **suporte** e claramente, sua **comunidade**.
+🍫 **Candy** será apenas mais um stealer no mercado, seu **diferencial** são as **inúmeras possibilidades** que ele criará junto com sua **comunidade##.
 
 ## - ⏰ Vocês tem alguma previsão?
  - Infelizmente não, o **__Candy__** será **grátis**, então talvez isto traga vários problemas, mas ao longo do tempo vamos resolvê-los.
