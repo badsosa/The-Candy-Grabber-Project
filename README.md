@@ -1,7 +1,7 @@
-🍫 **Candy** será apenas mais um stealer no mercado, seu **diferencial** são as **inúmeras possibilidades** que ele criará junto com sua **comunidade**.
+⬜ **Cube** será apenas mais um stealer no mercado, seu **diferencial** são as **inúmeras possibilidades** que ele criará junto com sua **comunidade**.
 
 ## - ⏰ Vocês tem alguma previsão?
- - Infelizmente não, o **__Candy__** será **grátis**, então talvez isto traga vários problemas, mas ao longo do tempo vamos resolvê-los.
+ - Infelizmente não, o **__Cube__** será **grátis**, então talvez isto traga vários problemas, mas ao longo do tempo vamos resolvê-los.
 ## - ❔ O que é um stealer?
  - Na computação, infostealers são uma forma de software malicioso, criado para violar sistemas de computador para roubar informações confidenciais — incluindo detalhes de login, informações financeiras e outras informações pessoalmente identificáveis. As informações roubadas são então empacotadas, enviadas ao invasor e, muitas vezes, negociadas em mercados ilícitos para outros criminosos cibernéticos.
 ## 💰 Eu posso lucrar com isto?
@@ -11,7 +11,7 @@
 - **Vendendo** o acesso ao servidor (será travado com 1.000 membros).
 - **Revendendo keys** do stealer ao atingirmos a meta dos 1.000 membros.
 
-# 🤍 Como posso apoiar a Candy?
+# 🤍 Como posso apoiar a Cube?
 **De forma financeira**, você pode simplesmente obter o cargo de **apoiador** no seguinte site: [Clique aqui](https://decrypt.mginex.com/products/0192c581-db8e-7f86-83fb-cb02189d60b1).
 - **Não** é só de forma financeira que você pode nos apoiar, você também pode apoiar o nosso projeto **interagindo** com a nossa **comunidade** e **sugerindo funções** para o stealer.
 
